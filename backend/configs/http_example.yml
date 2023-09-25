@@ -1,0 +1,31 @@
+PG:
+  Host: localhost
+  Port: 5435
+  User: postby
+  Password: password
+  DBName: postby
+
+MONGO:
+  Host: localhost
+  Port: 27017
+  User: postby
+  Password: password
+  DBName: postby
+
+HTTPPort: 8088
+AdminLogin: admin
+AdminPassword: admin
+AdminEmail: admin@admin.ru
+
+DB: postgres
+
+Cost: 10
+DailyBonus: 5
+TokenExp: 72h
+SecretKey: secretkey
+Span: 24h
+
+Logger:
+  Encoding: console
+  Level: info
+  File: tech.log

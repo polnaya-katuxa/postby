@@ -1,0 +1,8 @@
+/backend/tech.log
+/backend/deployments/pgdata/
+/backend/deployments/mongodata/
+/backend/bin/
+/backend/configs/tech_config.yml
+/backend/configs/http_config.yml
+/idea/
+**/.DS_Store
